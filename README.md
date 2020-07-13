@@ -1,12 +1,10 @@
-### Hi there 👋
+### About Webster Gova 👋
 
 <!--
 **wgova/wgova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 Some of my recent ... https://miro.medium.com/max/700/0*hk1faR5Aagf-Asei
-![Nowcasting](https://medium.com/@webster_gova/nowcasting-beyond-covid-19-visualisations-cf687882f313)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 Some of my recent ... https://miro.medium.com/max/700/0*hk1faR5Aagf-Asei
+![Nowcasting](https://medium.com/@webster_gova/nowcasting-beyond-covid-19-visualisations-cf687882f313)
+
+
