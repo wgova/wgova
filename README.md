@@ -1,6 +1,7 @@
 ## Webster Gova
 [LinkedIn](https://www.linkedin.com/in/webstergova/)
-<img src="https://media-exp1.licdn.com/dms/image/C4E03AQFSRYQ42ipyHw/profile-displayphoto-shrink_200_200/0?e=1600300800&v=beta&t=KdJqmYqJ1Zz8_Fylyy8xXIt_cXSXZCavW6hnktjCDp8">
+
+<img src="https://pbs.twimg.com/profile_images/1212745983030902785/H85k8k46_400x400.jpg">
 
 ### Blog posts
 - 💬 [Clustering African countries: Covid-19 real time R0](https://medium.com/@webster_gova/why-you-should-cluster-covid-19-cases-in-africa-e3cfd7de7087)
