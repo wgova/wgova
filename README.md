@@ -1,4 +1,4 @@
-### About Webster Gova 👋
+## Webster Gova👋
 
 <!--
 **wgova/wgova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Blog posts
-- 🔭 Some of my recent ... [](https://miro.medium.com/max/700/0*hk1faR5Aagf-Asei)
+### Blog posts
+- 🔭 Some of my recent ... <img src="https://miro.medium.com/max/700/0*hk1faR5Aagf-Asei" 
 ![Nowcasting](https://medium.com/@webster_gova/nowcasting-beyond-covid-19-visualisations-cf687882f313)
+- 💬 
 
 
