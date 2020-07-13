@@ -1,5 +1,4 @@
-## Webster Gova
-[Connect with me on LinkedIn](https://www.linkedin.com/in/webstergova/)
+[Connect with me Webster Gova on LinkedIn](https://www.linkedin.com/in/webstergova/)
 
 ### Blog posts
 - 💬 [Clustering African countries: Covid-19 real time R0](https://medium.com/@webster_gova/why-you-should-cluster-covid-19-cases-in-africa-e3cfd7de7087)
