@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Blog posts
-- 🔭 Some of my recent ... <img src="https://miro.medium.com/max/700/0*hk1faR5Aagf-Asei">
-![Nowcasting](https://medium.com/@webster_gova/nowcasting-beyond-covid-19-visualisations-cf687882f313)
+- 🔭 [Nowcasting](https://medium.com/@webster_gova/nowcasting-beyond-covid-19-visualisations-cf687882f313) 
+<img src="https://miro.medium.com/max/700/0*hk1faR5Aagf-Asei"> 
 - 💬 
 
 
