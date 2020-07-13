@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 Some of my recent ... https://miro.medium.com/max/700/0*hk1faR5Aagf-Asei
+- 🔭 Some of my recent ... [image](https://miro.medium.com/max/700/0*hk1faR5Aagf-Asei)
 ![Nowcasting](https://medium.com/@webster_gova/nowcasting-beyond-covid-19-visualisations-cf687882f313)
 
 
