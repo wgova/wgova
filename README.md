@@ -1,8 +1,8 @@
 
 Data scientist by day, PhD candidate by night, I guess that makes me a nocturnal scholar 👩🏾‍💻
-
+<p align="center"
 ![](https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif)
-
+</p>
 ### Blog posts
 
 - 💬 Clustering African countries: [Covid-19 real time R0](https://medium.com/@webster_gova/why-you-should-cluster-covid-19-cases-in-africa-e3cfd7de7087)
