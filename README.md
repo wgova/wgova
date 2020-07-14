@@ -20,5 +20,5 @@ You can also connect with me on [LinkedIn](https://www.linkedin.com/in/webstergo
 
 ### Machine learning tutorials
 <p
-<img align="center" src="https://github.com/wgova/eda_iris/raw/master/img/pairwise.png">
+<img align="center" src="https://github.com/wgova/eda_iris/raw/master/img/pairwise.png" width="450" height= "350">
 </p>
