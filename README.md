@@ -10,12 +10,12 @@ You can also connect with me on [LinkedIn](https://www.linkedin.com/in/webstergo
 
 - 💬 Clustering African countries: [Covid-19 real time R0](https://medium.com/@webster_gova/why-you-should-cluster-covid-19-cases-in-africa-e3cfd7de7087)
 <p align="center"> 
-<img align="center"src="https://miro.medium.com/max/625/0*2a95vpQkbMnili-y" width="350" height= "350">
+<img align="center"src="https://miro.medium.com/max/625/0*2a95vpQkbMnili-y" width="450" height= "350">
 </p>
 
 - 🔭 Nowcasting [Covid-19 cases](https://medium.com/@webster_gova/nowcasting-beyond-covid-19-visualisations-cf687882f313)
 <p align="center"> 
-<img align="center" src="https://miro.medium.com/max/700/0*hk1faR5Aagf-Asei" width="350" height= "350"> 
+<img align="center" src="https://miro.medium.com/max/700/0*hk1faR5Aagf-Asei" width="450" height= "350"> 
 </p>
 
 ### Machine learning tutorials
