@@ -1,7 +1,7 @@
 
 Data scientist by day, PhD candidate by night, I guess that makes me a nocturnal scholar
 <p align="center"> 
-<img src="wgova/kmeans-clustering" width="250" height= "250">
+<gif src="wgova/kmeans-clustering" width="250" height= "250">
 </p>
 
 You can also connect with me on [LinkedIn](https://www.linkedin.com/in/webstergova/)
