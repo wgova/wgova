@@ -4,8 +4,6 @@ Data scientist by day, PhD candidate by night, I guess that makes me a nocturnal
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRqHjz0XrswbFKUXGwk7bomvsl9urHSqgkFGw&usqp=CAU" width="250" height= "250">
 </p>
 
-You can also connect with me on [LinkedIn](https://www.linkedin.com/in/webstergova/)
-
 ### Blog posts
 
 - 💬 Clustering African countries: [Covid-19 real time R0](https://medium.com/@webster_gova/why-you-should-cluster-covid-19-cases-in-africa-e3cfd7de7087)
@@ -24,3 +22,5 @@ You can also connect with me on [LinkedIn](https://www.linkedin.com/in/webstergo
 <p align="center">
 <img src="https://github.com/wgova/kmeans-clustering/blob/master/img/pairwise.png?raw=true" width="450" height= "350">
 </p>
+
+You can also connect with me on [LinkedIn](https://www.linkedin.com/in/webstergova/)
