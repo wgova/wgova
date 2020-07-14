@@ -19,4 +19,6 @@ You can also connect with me on [LinkedIn](https://www.linkedin.com/in/webstergo
 </p>
 
 ### Machine learning tutorials
-
+<p
+<img align="center" src="https://github.com/wgova/eda_iris/raw/master/img/pairwise.png">
+</p>
