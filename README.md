@@ -1,7 +1,7 @@
 
 Data scientist by day, PhD candidate by night, I guess that makes me a nocturnal scholar 👩🏾‍💻
 
-![](https://i.giphy.com/media/11JTxkrmq4bGE0/200.webp)
+![](https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif)
 
 ### Blog posts
 
