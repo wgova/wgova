@@ -22,5 +22,5 @@ You can also connect with me on [LinkedIn](https://www.linkedin.com/in/webstergo
 
 - K-means clustering
 <p
-<img align="center" src="https://github.com/wgova/kmeans-clustering/blob/master/img/pairwise.png" width="450" height= "350">
+<img align="center" src="https://github.com/wgova/kmeans-clustering/blob/master/img/pairwise.png?raw=true" width="450" height= "350">
 </p>
