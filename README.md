@@ -21,6 +21,6 @@ You can also connect with me on [LinkedIn](https://www.linkedin.com/in/webstergo
 ### Machine learning tutorials
 
 - Iris dataset [K-means clustering](https://github.com/wgova/kmeans-clustering)
-<p align="center"
+<p align="center">
 <img src="https://github.com/wgova/kmeans-clustering/blob/master/img/pairwise.png?raw=true" width="450" height= "350">
 </p>
