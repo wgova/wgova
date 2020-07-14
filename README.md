@@ -19,6 +19,8 @@ You can also connect with me on [LinkedIn](https://www.linkedin.com/in/webstergo
 </p>
 
 ### Machine learning tutorials
+
+- K-means clustering
 <p
 <img align="center" src="https://github.com/wgova/eda_iris/raw/master/img/pairwise.png" width="450" height= "350">
 </p>
