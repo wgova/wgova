@@ -17,5 +17,6 @@ You can also connect with me on [LinkedIn](https://www.linkedin.com/in/webstergo
 <p align="center"> 
 <img align="center" src="https://miro.medium.com/max/700/0*hk1faR5Aagf-Asei" width="250" height= "250"> 
 </p>
+
 ### Machine learning tutorials
 
