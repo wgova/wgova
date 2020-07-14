@@ -20,7 +20,7 @@ You can also connect with me on [LinkedIn](https://www.linkedin.com/in/webstergo
 
 ### Machine learning tutorials
 
-- K-means clustering
+- Iris dataset [K-means clustering](https://github.com/wgova/kmeans-clustering) 
 <p
 <img align="center" src="https://github.com/wgova/kmeans-clustering/blob/master/img/pairwise.png?raw=true" width="450" height= "350">
 </p>
