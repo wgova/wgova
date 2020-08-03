@@ -1,5 +1,5 @@
 
-Data scientist by day, PhD candidate by night, I guess that makes me a nocturnal scholar 👩🏾‍💻
+Data scientist by day, PhD reader in Machine Learning applications to Time Series Forecasting problems at Stellenbosch University by night, I guess that makes me a nocturnal scholar 👩🏾‍💻
 
 ![](https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif)
 
