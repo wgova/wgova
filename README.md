@@ -26,7 +26,7 @@ You can also connect with me on:
 
 [<img align="left" alt="Webster gova | LinkedIn" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/220px-Linkedin.svg.png" />][linkedin]
 <br />
-<img align="left" alt="Webster's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wgova&show_icons=true&hide_border=true" />
+<img align="left" alt="Webster's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wgova&count_private=True&show_icons=true&hide_border=false" />
 
 ### Languages and Tools:
 
