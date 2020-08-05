@@ -51,8 +51,6 @@ You can also connect with me on:
 <br />
 <img align="left" alt="Webster's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wgova&count_private=True&show_icons=true&hide_border=false&theme=dark&hide=stars" />
 
-<img align="right" alt="Webster's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wgova" />
-<br />
-<br />
+<img align="left" alt="Webster's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wgova" />
 
 [linkedin]: https://linkedin.com/in/webstergova
