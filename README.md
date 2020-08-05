@@ -24,10 +24,11 @@ Data scientist by day, PhD reader in Machine Learning applications to Time Serie
 
 You can also connect with me on [<img align="left" alt="Webster gova | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<img align="left" alt="Webster's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wgova&show_icons=true&hide_border=true" />
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][datascience]
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 [<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][datascience]
 
@@ -44,7 +45,5 @@ You can also connect with me on [<img align="left" alt="Webster gova | LinkedIn"
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][devops]
 
 [<img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />][devops]
-
-<img align="left" alt="Webster's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wgova&show_icons=true&hide_border=true" />
 
 [linkedin]: https://linkedin.com/in/webstergova
