@@ -27,8 +27,6 @@ You can also connect with me on:
 [<img align="left" alt="Webster gova | LinkedIn" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/220px-Linkedin.svg.png" />][linkedin]
 <br />
 
-<p align="center">
-
 ### Languages and Tools:
 <img align="left" alt="Python" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
@@ -49,7 +47,6 @@ You can also connect with me on:
 <img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
 
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-</p>
 
 <img align="left" alt="Webster's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wgova&count_private=True&show_icons=true&hide_border=false&theme=dark&hide=stars" />
 <br />
