@@ -25,7 +25,7 @@ Data scientist by day, PhD reader in Machine Learning applications to Time Serie
 You can also connect with me on:
 
 [<img align="left" alt="Webster gova | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+<br />
 <img align="left" alt="Webster's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wgova&show_icons=true&hide_border=true" />
 
 ### Languages and Tools:
