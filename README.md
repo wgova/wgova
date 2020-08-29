@@ -1,5 +1,6 @@
 
-Data scientist by day, PhD reader by night, I guess that makes me a nocturnal scholar 👩🏾‍💻
+Data scientist by day, PhD reader by night, I guess that makes me a nocturnal scholar.... 👩🏾‍💻
+Loving and killing it........see!!!
 
 ![](https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif)
 
