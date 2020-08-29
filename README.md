@@ -1,5 +1,5 @@
 
-Data scientist by day, PhD reader in Machine Learning applications to Time Series Forecasting problems at Stellenbosch University by night, I guess that makes me a nocturnal scholar 👩🏾‍💻
+Data scientist by day, PhD reader by night, I guess that makes me a nocturnal scholar 👩🏾‍💻
 
 ![](https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif)
 
@@ -21,6 +21,7 @@ Data scientist by day, PhD reader in Machine Learning applications to Time Serie
 <p align="center">
 <img src="https://github.com/wgova/kmeans-clustering/blob/master/img/pairwise.png?raw=true" width="450" height= "350">
 </p>
+- ......Loading financial time series predictions
 
 You can also connect with me on:
 
