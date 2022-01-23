@@ -1,5 +1,5 @@
 
-Data scientist by day, PhD reader by night, I guess that makes me a nocturnal scholar. My neighbors' cats will tell you all about it.... 👩🏾‍💻
+Data scientist by day, PhD reader by night, bit of a nocturnal nerd. Regular guy with strokes of grey, ..... 👩🏾‍💻
 
 ![](https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif)
 
